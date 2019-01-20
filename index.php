@@ -86,7 +86,7 @@
             </a>
         </div>
     </section>
-    <section class=" what-we-do container">
+    <section class=" what_we_do container">
         <?php $i = 0; ?>
         <h2><?php echo $data['what_we_do']['heading'] ?></h2>
         <ul class="row">
